@@ -1,0 +1,13 @@
+#selamat datang Dan ikuti cara install nya
+#pkg update -y
+#pkg uprade -y
+#apt install git -y
+#apt install python -y
+#apt install python2 -y
+#apt install zip -y
+#git clone https://github.com/Sahrul-Gunawan-Cyber/Facebook-V.I.P
+#cd Facebook-V.I.P
+#ls enter
+#python2 Facebook-V.I.P.py
+#selesai 
+#usernama dan password ada di youtube saya
